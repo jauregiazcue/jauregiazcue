@@ -13,8 +13,6 @@
   Due to my desire for knowledge, I went to ESAT and Sheffield Hallam University, where I learned how to create my own engines (in OpenGL and PS5), how to create state machines and search algorithms, make games while collaborating with a team and more.
 
   I am eager to learn from industry workers and improve all my skills even more.
-
-## Highlight Projects
   
 ![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=jauregiazcue&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
