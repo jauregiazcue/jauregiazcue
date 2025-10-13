@@ -16,7 +16,6 @@
   
 ![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=jauregiazcue&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
 
-![alt](https://streak-stats.demolab.com?user=jauregiazcue&theme=tokyonight&hide_border=true)
 
 ## Highlight Projects
 
