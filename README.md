@@ -14,8 +14,6 @@
 
   I am eager to learn from industry workers and improve all my skills even more.
   
-![alt](https://github-readme-stats.vercel.app/api/top-langs/?username=jauregiazcue&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-
 
 ## Highlight Projects
 
