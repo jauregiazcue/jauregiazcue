@@ -13,14 +13,3 @@
   Due to my desire for knowledge, I went to ESAT and Sheffield Hallam University, where I learned how to create my own engines (in OpenGL and PS5), how to create state machines and search algorithms, make games while collaborating with a team and more.
 
   I am eager to learn from industry workers and improve all my skills even more.
-  
-
-## Highlight Projects
-
-<a href="https://github.com/jauregiazcue/FortressEngine">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jauregiazcue&repo=FortressEngine&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="FortressEngine" />
-</a>
-<br>
-<a href="https://github.com/jauregiazcue/harpocrates">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jauregiazcue&repo=harpocrates&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="harpocrates" />
-</a>
