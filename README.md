@@ -8,8 +8,4 @@
 ![MongoDb](https://img.shields.io/badge/Mongo-black?style=flat-square&logo=mongodb)
 ![Postman](https://img.shields.io/badge/Postman-black?style=flat-square&logo=postman)
 
-  Computer Science for Games graduate from Sheffield Hallam University with skills in game development and computer graphics. 
-
-  Due to my desire for knowledge, I went to ESAT and Sheffield Hallam University, where I learned how to create my own engines (in OpenGL and PS5), how to create state machines and search algorithms, make games while collaborating with a team and more.
-
-  I am eager to learn from industry workers and improve all my skills even more.
+Computer Science for Games graduate from Sheffield Hallam University with skills in game development and computer graphics. Looking forward to specialising in gameplay programming and tools development. I am eager to learn from industry workers and improve all my skills even more.
